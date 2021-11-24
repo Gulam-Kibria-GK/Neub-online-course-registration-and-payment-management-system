@@ -1,11 +1,8 @@
-Still  working on it....
+Still  working on it.... <br>
 
-/*==============================================*\
-ID:          Gulam_Kibria
- 
-Gulam Kibria Chowdhury
-CSE Graduate || Competitive Programmer
-Sylhet, Bangladesh
- 
- mail: gkchowdhury101@gmail.com
-\*===============================================*/
+=============================================== <br>
+Gulam Kibria Chowdhury <br>
+CSE Graduate || Competitive Programmer <br>
+Sylhet, Bangladesh <br>
+Gmail: gkchowdhury101@gmail.com <br>
+=============================================== <br>
